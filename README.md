@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Soroushq
-- 👀 I’m interested in Learning new skilss
+- 👀 I’m interested in Learning new skills
 - I'm an AI Prompt Engineer/Front-End Dev with Angular | React (Therfore JavaScript & TypeScript & a bit of Python)
 - and tools like Vite | Axios | Redux | TailwindCss | Material Design | ChatGPT | Claude | Poe | ...
   
